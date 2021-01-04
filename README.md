@@ -13,7 +13,10 @@ Here's how to stay in a growth mindset
 
 This Thought | Replace with This
 |-------------------- | :------------------------------|
-| I'm not good at this | No one is good at theb beginning |
+| I'm not good at this | No one is good at the beginning |
+| I give up | Trying a new strategy will give you a way forward |
+| This is too hard | It's meant to be hard! We grow by challenging ourselves |
+
 
 A “growth mindset,” on the other hand, thrives on challenge and sees failure not as evidence of unintelligence but as a heartening springboard for growth and for stretching our existing abilities.
 
