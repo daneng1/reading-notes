@@ -35,6 +35,7 @@ Defined as...
 * Recognize that this is a journey and the more I embrace it the more I will gain
 
 [Markdown Reading](markdown.md)
+[Coders Computer](coders_computer.md)
 
 
 
