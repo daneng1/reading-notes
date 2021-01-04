@@ -1,4 +1,4 @@
-![]()
+![](Dan_Engel_2020_lowres.jpg) 
 
 # Author
 Dan Engel
