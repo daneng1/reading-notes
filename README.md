@@ -10,8 +10,11 @@ Here is my HitHub portfolio.[https://github.com/daneng1
 
 ### Growth Mindset
 
+Defined as...
 > **"A growth mindset thrives on challenge and sees failure not as evidence of unintelligence but as a heartening springboard for growth and for stretching our existing abilities."** Carol Dweck
 
+
+### How to Get Into a Growth Mindset
 
 |               This Thought          |       Replace with This |
 |------------------------------------ | ------------------------------|
@@ -23,6 +26,10 @@ Here is my HitHub portfolio.[https://github.com/daneng1
 | My classmates can do it but I can't | There was a time they couldn't either. |
 | I don't know                        | YET! |
 
+###Ways I can Embrace a Growth Mindset
+*Be sure to not compare my work to others too critically, rather try to learn from them
+*When I get stuck, look for another way or ask for help
+*Recognize that this is a journey and the more I embrace it the more I will gain
 
 
 
