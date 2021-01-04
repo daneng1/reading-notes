@@ -11,7 +11,7 @@ Here is my HitHub portfolio.[https://github.com/daneng1
 ### Growth Mindset
 Here's how to stay in a growth mindset
 
-This Thought                          | Replace with This
+|               This Thought          |       Replace with This |
 |--------------------                 | :------------------------------|
 | I'm not good at this                | No one is good at the beginning! |
 | I give up                           | Trying a new strategy will give you a way forward! |
