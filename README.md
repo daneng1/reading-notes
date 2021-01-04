@@ -9,3 +9,12 @@ I'm an avid trail runner, snowboarder and backpacker. I also enjoy chilling outs
 
 ### Growth Mindset
 Here's how to stay in a growth mindset
+
+
+
+
+
+
+
+Here is my HitHub portfolio.
+https://github.com/daneng1
