@@ -9,10 +9,12 @@ I'm an avid trail runner, snowboarder and backpacker. I also enjoy chilling outs
 Here is my HitHub portfolio.[https://github.com/daneng1
 
 ### Growth Mindset
-Here's how to stay in a growth mindset
+
+> **"A growth mindset thrives on challenge and sees failure not as evidence of unintelligence but as a heartening springboard for growth and for stretching our existing abilities."** Carol Dweck
+
 
 |               This Thought          |       Replace with This |
-|--------------------                 | ------------------------------|
+|------------------------------------ | ------------------------------|
 | I'm not good at this                | No one is good at the beginning! |
 | I give up                           | Trying a new strategy will give you a way forward! |
 | This is too hard                    | It's meant to be hard! We grow by challenging ourselves! |
@@ -22,7 +24,6 @@ Here's how to stay in a growth mindset
 | I don't know                        | YET! |
 
 
-> "A “growth mindset,” on the other hand, thrives on challenge and sees failure not as evidence of unintelligence but as a heartening springboard for growth and for stretching our existing abilities." Carol Dweck
 
 
 
