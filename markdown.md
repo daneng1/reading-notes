@@ -36,4 +36,4 @@ Tasks can be created by adding `- [ ] Task` like this
 - [ ] Task 3
 
 
-[Back to ReadMe](readme.md)
+[Back to ReadMe](README.md)
