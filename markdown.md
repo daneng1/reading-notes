@@ -27,7 +27,7 @@ For italics. just add a sinle asterisk `*text*` around your *text*.
 
 ### Links
 Links can be added by putting angle braces `[Link]` followed by the link in `(https://..)` parentheses and will look  
-like [this](https://github.com/daneng1).
+like [this](https://github.com/daneng1) link to my GitHub profile.
 
 ### Tasks
 Tasks can be created by adding `- [ ] Task` like this
