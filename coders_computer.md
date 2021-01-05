@@ -10,9 +10,9 @@ wrangles your text together into something meaningful.
 
 
 ### Basic Text Editors vs Coding Specific Editors
-- basic text editors that come on your computer have no special bells or whistles
-- there is no syntax highlighting, no themes and no extensions
-- basic text editors may have unnecessary options for making text bold, underlined, or italic. Stick to plain text.
+* basic text editors that come on your computer have no special bells or whistles
+* there is no syntax highlighting, no themes and no extensions
+* basic text editors may have unnecessary options for making text bold, underlined, or italic. Stick to plain text.
 
 
 ### Most important features of a text editor are: 
@@ -44,12 +44,12 @@ A path is just a location of a directory. Paths come in two flavors, relative an
 
 
 ### Some Basic Commands
-- **pwd** = print working directory which will show you the current folder you are in 
-- **ls** = list files in the current directory
-- **ls -a** = list all files in a directory including hidden files
-- **~** = shortcut for home directory
-- **..** = reference to parent directory
-- **cd** = change directory and is usually followed by a path you want to target
-- **file** = shows the file type and data associated with the file specified
+* **pwd** = print working directory which will show you the current folder you are in 
+* **ls** = list files in the current directory
+* **ls -a** = list all files in a directory including hidden files
+* **~** = shortcut for home directory
+* **..** = reference to parent directory
+* **cd** = change directory and is usually followed by a path you want to target
+* **file** = shows the file type and data associated with the file specified
 
 [Back to ReadMe](README.md)
