@@ -39,7 +39,7 @@ Start with the command, add an arguement and then a location to create a more co
 **Here is an example: ls -l Documents**, "ls" is the list command "-l" indicates a long list and "Documents" is the directory we are targeting with this task.
 
 ### Paths
-A path is just a location of a directory. Paths come in two flavors, relative and absolute. Absolute is always relative to your hroot drectory and begin with /. Relative paths specify a location based on where you are currently in the directory. They will begin with a character and not a /.
+A path is just a location of a directory. Paths come in two flavors, relative and absolute. Absolute is always relative to your root drectory and begin with /. Relative paths specify a location based on where you are currently in the directory. They will begin with a character and not a /.
 
 
 ### Some Basic Commands
