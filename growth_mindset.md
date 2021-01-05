@@ -1,10 +1,11 @@
 # Growth Mindset
+
 ---
+
 ## What is a Growth Mindset
 
 Defined as...
 > **"A growth mindset thrives on challenge and sees failure not as evidence of unintelligence but as a heartening springboard for growth and for stretching our existing abilities."** Carol Dweck
-
 
 ### How to Get Into a Growth Mindset
 
