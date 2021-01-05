@@ -18,8 +18,8 @@ There are a few ways you can use GitHub but the most common way is to use your l
 - `git add + filename` will track files in a repository
 - `git commit -m "..."` will commit a new snapshot to the repository. Add change notes in the quotes.
     - `git commit -a` will commit a new snapshot for all files being tracked in the working directory
-- `git push origin mian` will push the changes from the local "branch" to the remote branch
+- `git push origin main` will push the changes from the local "branch" to the remote branch
 
 ---
 
-[Back to Main](README.md)
+[Back to Read Me](README.md)
