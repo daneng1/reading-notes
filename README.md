@@ -17,7 +17,7 @@ Here is my [GitHub portfolio](https://github.com/daneng1).
 
 ### Table of Contents
 
-- [Growth Minset](growth-mindset.md)
+- [Growth Mindset](growth_mindset.md)
 - [Markdown Reading](markdown.md)
 - [Coders Computer](coders_computer.md)
 - [Git Hub](github.md)
