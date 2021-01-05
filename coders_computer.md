@@ -50,3 +50,4 @@ A path is just a location of a directory. Paths come in two flavors, relative an
 - **cd** = change directory and is usually followed by a path you want to target
 - **file** = shows the file type and data associated with the file specified
 
+[back to ReadMe](README.md)
