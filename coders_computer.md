@@ -1,5 +1,5 @@
 # The Coders Computer
-
+---
 
 ## TEXT EDITORS
 ### What is a text editor?
@@ -25,6 +25,7 @@ wrangles your text together into something meaningful.
 ### Tips
 It's a good idea to try various text editors to find the one you like the best. Some coders even switch editors periodically when new updates are released.
 
+---
 
 ## COMMAND LINE and TERMINAL
 
