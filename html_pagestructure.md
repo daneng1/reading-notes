@@ -1,5 +1,7 @@
 # Process for creating a site
 
+---
+
 - Who is the site for?
     - What is your target audience?
     - What do you know about them?
@@ -68,3 +70,7 @@
     - The <meta> element lives inside the head of your page and contains info about the page but is not visible to the visitor.
     - Escape Characters are a way to show special characters reserved by HTML on your page.
     - Examples are < > " & 
+
+---
+
+[Back to Read Me](README.md)

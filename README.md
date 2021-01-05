@@ -32,3 +32,4 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 - [Markdown Reading](markdown.md)
 - [Coders Computer](coders_computer.md)
 - [Git Hub](github.md)
+- [HTML and Page Structure](html_pagestructure.md)

@@ -25,4 +25,6 @@ Defined as...
 * When I get stuck, look for another way or ask for help
 * Recognize that this is a journey and the more I embrace it the more I will gain
 
-[Back to Main](README.md)
+---
+
+[Back to Read Me](README.md)
