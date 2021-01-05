@@ -46,10 +46,19 @@ A path is just a location of a directory. Paths come in two flavors, relative an
 ### Some Basic Commands
 * **pwd** = print working directory which will show you the current folder you are in 
 * **ls** = list files in the current directory
+  * **ls -l** = list file in list order and adds more info
 * **ls -a** = list all files in a directory including hidden files
 * **~** = shortcut for home directory
 * **..** = reference to parent directory
-* **cd** = change directory and is usually followed by a path you want to target
+* **cd** = change directory and is usually followed by a path you want to target 
+  * **cd -** = change back to previous directory
+  * **cd ..** = to go up one folder
 * **file** = shows the file type and data associated with the file specified
+* **cp** = copy file (requires file name and location)
+* **rm** = remove file or folder (rm Documents/test.jpg)
+* **mv** = move and/or rename file or folder
+* **tab** = auto complete after entering first character
+* **touch** = create new file
+* **mkdir** = create a folder
 
 [Back to ReadMe](README.md)
