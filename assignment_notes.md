@@ -1,0 +1,3 @@
+- In VS Code I added a new file called growth_mindset.md and moved all the related content from my README.md file to the new file. 
+- Next I updated the README.md file because I removed a bunch of content and added it to the growth_mindset.md file.
+- Then I added my growth_mindset.md file to GitHub. This is brand new and didn't exist there so it needed to be added for proper syncing.

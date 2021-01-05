@@ -16,6 +16,7 @@ There are a few ways you can use GitHub but the most common way is to use your l
 - `code .` will open your files in the code editor, in my case VS Code
 - `git status` will show if any of your files need to be updated
 - `git add + filename` will track files in a repository
+    - `git add .` will add all files in the directory
 - `git commit -m "..."` will commit a new snapshot to the repository. Add change notes in the quotes.
     - `git commit -a` will commit a new snapshot for all files being tracked in the working directory
 - `git push origin main` will push the changes from the local "branch" to the remote branch
