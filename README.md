@@ -37,3 +37,4 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 - [JavaScript](javascript.md)
 - [Computer Architecture and Logic](computers.md)
 - [Programming with JS](programming_JS.md)
+- [Loops and Operators](loops_operation.md)
