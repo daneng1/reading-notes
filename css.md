@@ -13,9 +13,14 @@ CSS treats HTML elemnts as if they are inside their own box, using rules to indi
 CSS rules appear in a different document from the HTML file.
 
 ## Using Color
+
 * Colors can be identified by using **RGB values, HSL, HEX codes and simple names.**
 * Foreground color or text color is selected using `color` in CSS.
 * Background color is the color you select for anything behind the text and can be selected using `backgound-color` in CSS.
 * Contrast - when picking foreground and background colors it is important to ensure that there is enough contrast between them so the text can be easily read.
 * Opacity is defined as the `A` value in `RGBA` and controls the transparency of the color.
 * HSL is anouther way to select a color using Hue, Saturation, Lightness and also Opacity "A".
+
+---
+
+[Back to Read Me](README.md)
