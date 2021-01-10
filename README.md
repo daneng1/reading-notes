@@ -50,13 +50,13 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 
 ### 102 Notes
 
-- [Growth Mindset](/102-notes/growth_mindset.md)
-- [Markdown Reading](/102-notes/markdown.md)
-- [Coders Computer](/102-notes/coders_computer.md)
-- [Git Hub](/102-notes/github.md)
-- [HTML and Page Structure](/102-notes/html_pagestructure.md)
-- [Design and CSS](/102-notes/css.md)
-- [JavaScript](/102-notes/javascript.md)
-- [Computer Architecture and Logic](/102-notes/computers.md)
-- [Programming with JS](/102-notes/programming_JS.md)
-- [Loops and Operators](/102-notes/loops_operation.md)
+1. [Growth Mindset](/102-notes/growth_mindset.md)
+1. [Markdown Reading](/102-notes/markdown.md)
+1. [Coders Computer](/102-notes/coders_computer.md)
+1. [Git Hub](/102-notes/github.md)
+1. [HTML and Page Structure](/102-notes/html_pagestructure.md)
+1. [Design and CSS](/102-notes/css.md)
+1. [JavaScript](/102-notes/javascript.md)
+1. [Computer Architecture and Logic](/102-notes/computers.md)
+1. [Programming with JS](/102-notes/programming_JS.md)
+1. [Loops and Operators](/102-notes/loops_operation.md)
