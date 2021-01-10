@@ -33,20 +33,20 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 ### 201 Notes
 
 1. 
-1.
-1.
-1.
-1.
-1.
-1.
 1. 
-1.
-1.
-1.
-1.
-1.
-1.
-1.
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
 
 ### 102 Notes
 
