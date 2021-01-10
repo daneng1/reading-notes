@@ -1,4 +1,5 @@
 # What is GitHub Markdown?
+
 ### Simply put it is a way to style text on the web without the need for HTML or CSS.
 
 You can do a lot with Markdown in just a few simple steps.
@@ -9,7 +10,9 @@ It's simple. just start typing or copy and paste in your text!
 ### Formatting Text
 
 ### Headers 
+
 There are several headers you can add from really big to pretty small. Use the `# ` before your text and add between 1-6 of them for decreasing sizes like this 
+
 # H1 `# H1`
 ## H2 `## H2`
 ### H3 `### H3`
@@ -30,10 +33,12 @@ Links can be added by putting angle braces `[Link]` followed by the link in `(ht
 like [this](https://github.com/daneng1) link to my GitHub profile.
 
 ### Tasks
+
 Tasks can be created by adding `- [ ] Task` like this
+
 - [ ] Task 1
 - [ ] Task 2
 - [ ] Task 3
 
 
-[Back to ReadMe](README.md)
+[Back to ReadMe](../README.md)

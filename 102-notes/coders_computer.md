@@ -61,4 +61,4 @@ A path is just a location of a directory. Paths come in two flavors, relative an
 * **touch** = create new file
 * **mkdir** = create a folder
 
-[Back to ReadMe](README.md)
+[Back to ReadMe](../README.md)

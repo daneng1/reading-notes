@@ -15,6 +15,7 @@ JS allows us to access and modify content, apply program rules and react to even
 An expression evaluates iput into a single value. They come in two types, one just assigns a value `val color = 'beige';` and the other uses two or more values to return a single value like `var area = 3 * 2;`
 
 ### Expressions rely on operators to form a value.
+
 * Assignment is just putting a value to a variable.
 * Arithmetic will perform math.
 * String will combine two strings.
@@ -43,4 +44,4 @@ getArea(wallWidth, wallHeight);`
 
 ---
 
-[Back to Read Me](README.md)
+[Back to Read Me](../README.md)

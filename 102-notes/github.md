@@ -23,4 +23,4 @@ There are a few ways you can use GitHub but the most common way is to use your l
 
 ---
 
-[Back to Read Me](README.md)
+[Back to Read Me](../README.md)

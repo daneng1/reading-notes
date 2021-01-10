@@ -23,4 +23,4 @@ JS uses a few types of data like integers, strings and booleans to create functi
 
 ---
 
-[Back to Read Me](README.md)
+[Back to Read Me](../README.md)
