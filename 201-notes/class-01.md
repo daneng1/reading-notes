@@ -34,5 +34,14 @@ After that, build a sitmap which will tell you how the various pages will link t
 
 Scripts are instructions that the computer can follow to achieve a goal. The instructions must be very detailed in order for the computer to follow them correctly. When writing a script, it is best to start with a flow chart that maps all the steps needed to complete the task, then you can start coding those tasks.
 
+```html
+<html>
+    <head>
+    </head>
+    <body>
+    </body>
+</html>
+```
+
 
 [Back to ReadMe](../README.md)
