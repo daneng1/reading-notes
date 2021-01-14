@@ -115,3 +115,9 @@ A FOR loop uses a counter as a condition and instructs the code to run a specifi
 - Update - every time the loop runs, add 1 to the counter `i++`
 
 A WHILE loop repeats a chunk of code as long as a particular condition is true, in other words, while the condition is true.
+
+
+---
+
+
+[Back to Read Me](../README.md)
