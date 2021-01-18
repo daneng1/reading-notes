@@ -32,3 +32,8 @@
 * Weight, style and stretch are other factors to consider in your fonts.
 
 * Size of fonts are measured in pixels, percent and EMS. 
+
+---
+
+
+[Back to Read Me](../README.md)
