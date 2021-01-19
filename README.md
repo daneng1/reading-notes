@@ -40,8 +40,8 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 
 1. [HTML Links, CSS Layouts and JS Functions](201-notes/htmlLinks_jsFunctions_cssLayouts.md)
 1. [Images, Color and Text](201-notes/images_color_text.md)
-1. [Obsect Literals and DOM](201-notes/Object_Literals_DOM.md)
-1. 
+1. [Object Literals and DOM](201-notes/Object_Literals_DOM.md)
+1. [Tables and JS Constructors](201-notes/tables_JSconstructors.md)
 1. 
 1. 
 1. 
