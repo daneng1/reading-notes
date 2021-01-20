@@ -12,7 +12,7 @@ This is a collection of my reading notes for CodeFellows.
 
 ## About Me
 
-I'm an avid trail runner, snowboarder and backpacker. I also enjoy chilling outside, sitting around a campfire with my wife and daughter, enjoying smores and good company with friends!
+I'm an avid trail runner, snowboarder and backpacker and I enjoy getting deep into the mountains. I also enjoy chilling outside, sitting around a campfire with my wife and daughter, enjoying smores and good company with friends!
 
 --
 
@@ -33,16 +33,13 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 ### 201 Notes
 
 1. [ABC's of Programming](/201-notes/class-01.md)
-
 1. [Basics of HTML, CSS and JS](/201-notes/basics_html_css_js.md)
-
 1. [HTML Lists, CSS Boxes and JS Flow Control](/201-notes/htmlLists_cssBoxes_jsFlowControl.md)
-
 1. [HTML Links, CSS Layouts and JS Functions](201-notes/htmlLinks_jsFunctions_cssLayouts.md)
 1. [Images, Color and Text](201-notes/images_color_text.md)
 1. [Object Literals and DOM](201-notes/Object_Literals_DOM.md)
 1. [Tables and JS Constructors](201-notes/tables_JSconstructors.md)
-1. 
+1. [CSS Layouts](201-notes/css_layouts.md)
 1. 
 1. 
 1. 
