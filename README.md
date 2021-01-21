@@ -40,7 +40,7 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [Object Literals and DOM](201-notes/Object_Literals_DOM.md)
 1. [Tables and JS Constructors](201-notes/tables_JSconstructors.md)
 1. [CSS Layouts](201-notes/css_layouts.md)
-1. 
+1. [Forms and Events](201-notes/forms_events.md)
 1. 
 1. 
 1. 
