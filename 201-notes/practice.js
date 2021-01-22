@@ -47,3 +47,32 @@ function contentCreator(elementType, content){
 var paragraph = contentCreator('p', 'here is some text')
 var divElement = document.getElementById('content-box');
 divElement.appendChild(paragraph);
+
+
+1/19/21 Review
+
+// *  Create a Pokemon constructor that creates an object with the following properties and methods
+// *     - Name: String
+// *     - Health Points: Number
+// *     - Attack Points: Number
+// *     - Abilities: Array of String
+// *     - Speak: A Method that console logs the Pokemons name
+// **/
+function Pokemon(name, healthPoints, attackPoints, abilities, speak) {
+  this.name = name;
+  this.healthPoints= healthPoints;
+  this.attackPoints = attackPoints;
+  this.abilities = abilities;
+  this.speak = function(){
+    return speak(`Hello, my name is ${this.name}`);
+  }
+  this.speak();
+
+}
+
+var whittle = new Pokemon('Whittle',1500, 4000, 'run fast, backflips, chnages color');
+console.log(whittle);
+
+
+// User Input Functions
+
