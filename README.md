@@ -42,7 +42,7 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [CSS Layouts](201-notes/css_layouts.md)
 1. [Forms and Events](201-notes/forms_events.md)
 1. [JS Debuggin'](201-notes/JS_Debugging.md)
-1. 
+1. [Audio, Video and Images](201-notes/audio_video_images.md)
 1. 
 1. 
 1. 
