@@ -44,7 +44,7 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [JS Debuggin'](201-notes/JS_Debugging.md)
 1. [Audio, Video and Images](201-notes/audio_video_images.md)
 1. [Charts and Canvas.js](201-notes/chart_canvas.md)
-1. 
+1. [Local Storage](201-notes/local_storage.md)
 1. 
 1. 
 
