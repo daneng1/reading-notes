@@ -45,8 +45,8 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [Audio, Video and Images](201-notes/audio_video_images.md)
 1. [Charts and Canvas.js](201-notes/chart_canvas.md)
 1. [Local Storage](201-notes/local_storage.md)
-1. 
-1. 
+1. [CSS Transforms, Transitions and Animations](201-notes/css_transforms_transitions_animations.md)
+1. [Teams](201-notes/teams.md)
 
 ### 102 Notes
 
