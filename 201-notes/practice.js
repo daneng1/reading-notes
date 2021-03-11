@@ -1,78 +1,61 @@
+// Building a School catalog with class for Schools and subclasses for Primary, Middle and High Schools
 
-function Location(city, min, max, avg, hours) {
-  this.city = city;
-  this.min = min;
-  this.max = max;
-  this.avg = avg; 
-  this.hours = hours;
-}
-
-var seattle = new Location('Seattle', 23, 65, 6.3, hoursGlobal);
-var tokyo = new Location('Tokyo', 3, 24, 1.2, hoursGlobal);
-var dubai = new Location('Dubai', 11 ,38, 3.7, hoursGlobal);
-var paris = new Location('Paris', 20, 38, 2.3, hoursGlobal);
-var lima = new Location('Lima', 2, 16, 4.6, hoursGlobal);
-
-  console.log(seattle.max);
-
-var hoursGlobal = ['6am:', '7am:', '8am:', '9am:', '10am:', '11am:', '12pm:', '1pm:', '2pm:', '3pm:', '4pm:', '5pm:', '6pm:', '7pm:'];
-
-
-
-
-var person = {
-  name: 'Dan',
-  speak: function() {
-    console.log('Hey There');
-  },
-  greet: function() {
-    console.log('My name is ' + this.name);
-  },
-}
-person['name'];
-person['greet'];
-
-
-1/18/21 Review
-
-var elementType = 'h2';
-var content = 'Some content.';
-
-function contentCreator(elementType, content){
-
-  var item = document.createElement(elementType);
-  item.textContent = content;
-  return item;
-}
-var paragraph = contentCreator('p', 'here is some text')
-var divElement = document.getElementById('content-box');
-divElement.appendChild(paragraph);
-
-
-1/19/21 Review
-
-// *  Create a Pokemon constructor that creates an object with the following properties and methods
-// *     - Name: String
-// *     - Health Points: Number
-// *     - Attack Points: Number
-// *     - Abilities: Array of String
-// *     - Speak: A Method that console logs the Pokemons name
-// **/
-function Pokemon(name, healthPoints, attackPoints, abilities, speak) {
-  this.name = name;
-  this.healthPoints= healthPoints;
-  this.attackPoints = attackPoints;
-  this.abilities = abilities;
-  this.speak = function(){
-    return speak(`Hello, my name is ${this.name}`);
+class School {
+  constructor(name, level, numberOfStudents) {
+    this._name = name;
+    this._level = level;
+    this._numberOfStudents = numberOfStudents;
   }
-  this.speak();
-
+  get name(){
+    return this._name;
+  }
+  get level(){
+    return this._level;
+  }
+  get numberOfStudents(){
+    return this._numberOfStudents;
+  }
+  set numberOfStudents(value){
+    if (typeof value !== 'number' || value < 0){
+      console.log('Invalid input: numberOfStudents must be set to a Number.');
+    } else {
+      this.numberOfStudents = value;
+    }
+  }
+  quickFacts(){
+    console.log(`${this.name} educates ${this.numberOfStudents} students at the ${this.level} school level.`);
+  }
+  static pickSubstituteTeacher(substituteTeacher){
+    let randomNum = Math.floor(Math.random() * substituteTeacher.length);
+    return substituteTeacher[randomNum];
+  }
 }
 
-var whittle = new Pokemon('Whittle',1500, 4000, 'run fast, backflips, chnages color');
-console.log(whittle);
+class PrimarySchool extends School{
+  constructor(name, numberOfStudents, pickupPolicy){
+    super(name, 'primary', numberOfStudents);
+    this._pickupPolicy = pickupPolicy;
+  }
+  get pickupPolicy(){
+    return this._pickupPolicy;
+  }
+}
 
+class HighSchool extends School{
+  constructor(name, numberOfStudents, sportsTeams){
+    super(name, 'high',numberOfStudents);
+    this._sportsTeams = sportsTeams;
+  }
+  get sportsTeams(){
+    return this._sportsTeams;
+    // console.log(sportsTeams);
+  }
+}
 
-// User Input Functions
+const lorraineHansbury = new PrimarySchool('Lorraine Hansbury', 514, 'Students must be picked up by a parent, guardian, or a family member over the age of 13.');
 
+console.log(School.pickSubstituteTeacher(['Jamal Crawford', 'Lou Williams', 'J. R. Smith', 'James Harden', 'Jason Terry', 'Manu Ginobli']));
+
+const alSmith = new HighSchool('Al E. Smith', 415, ['Baseball', 'Basketball', 'Volleyball', 'Track and Field']);
+
+console.log(alSmith.sportsTeams);

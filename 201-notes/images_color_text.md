@@ -1,6 +1,6 @@
 # Images
 
-##Adding images to your page will make it more dynamic and engaging. They should be relevant, convey information, add the right mood and fit the color palette.
+### Adding images to your page will make it more dynamic and engaging. They should be relevant, convey information, add the right mood and fit the color palette.
 
 * Store local images in an 'images' folder. 
 

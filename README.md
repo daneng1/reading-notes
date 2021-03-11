@@ -30,6 +30,12 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 
 ## Table of Contents
 
+### 301 Notes
+
+1.
+1.
+1.
+
 ### 201 Notes
 
 1. [ABC's of Programming](/201-notes/class-01.md)
