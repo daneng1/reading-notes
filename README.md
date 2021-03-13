@@ -32,7 +32,7 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 
 ### 301 Notes
 
-1.
+1. [React Intro](301-notes/react.md)
 1.
 1.
 
