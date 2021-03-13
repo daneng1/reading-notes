@@ -1,5 +1,6 @@
-# REACT 
-
+# REACT
+  
+###### https://reactjs.org/tutorial/tutorial.html cited for all content below 
 ---
 
 ### What is React?
