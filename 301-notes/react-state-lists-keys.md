@@ -84,3 +84,5 @@ Spread Operator is great for:
 - Adding to state in React
 - Combining objects
 - Converting NodeList to an array
+
+[Back to Read Me](../README.md)
