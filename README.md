@@ -34,7 +34,7 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 
 1. [React Intro](301-notes/react.md)
 1. [React State, Handling Events, Conditional Rendering](301-notes/react-state-events-rendering.md)
-1.
+1. [React Lifting up State, Lists, Keys and Spread Operator](301-notes/react-state-lists-keys.md)
 
 ### 201 Notes
 
