@@ -36,6 +36,7 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [React State, Handling Events, Conditional Rendering](301-notes/react-state-events-rendering.md)
 1. [React Lifting up State, Lists, Keys and Spread Operator](301-notes/react-state-lists-keys.md)
 1. [React Form Control](301-notes/react-forms.md)
+1. [Thinking in React](301-notes/react-thinking.md)
 
 ### 201 Notes
 
