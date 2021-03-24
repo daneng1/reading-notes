@@ -38,6 +38,7 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [React Form Control](301-notes/react-forms.md)
 1. [Thinking in React](301-notes/react-thinking.md)
 1. [Node.js](301-notes/node-intro.md)
+1. [SuperAgent](301-notes/superagent_regex.md)
 
 ### 201 Notes
 
