@@ -40,6 +40,7 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [Node.js](301-notes/node-intro.md)
 1. [SuperAgent](301-notes/superagent_regex.md)
 1. [JS Stack and Errors](301-notes/javascript-call-stack.md)
+1. [OAuth](301-notes/oauth.md)
 
 ### 201 Notes
 
