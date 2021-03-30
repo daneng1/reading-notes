@@ -41,6 +41,7 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [SuperAgent](301-notes/superagent_regex.md)
 1. [JS Stack and Errors](301-notes/javascript-call-stack.md)
 1. [OAuth](301-notes/oauth.md)
+1. [Sql vs noSql](301-notes/sql-vs-noSql.md)
 
 ### 201 Notes
 
