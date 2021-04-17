@@ -30,6 +30,11 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 
 ## Table of Contents
 
+### 401 Notes
+
+1. [Solving Coding Problems](401-notes/solving_coding_problems.md)
+
+
 ### 301 Notes
 
 1. [React Intro](301-notes/react.md)
