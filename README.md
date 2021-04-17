@@ -33,6 +33,9 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 ### 401 Notes
 
 1. [Solving Coding Problems](401-notes/solving_coding_problems.md)
+1. [Value of Time](401-notes/Value_of_time.md)
+1. [Think Like A Programmer](401-notes/Think_Like_A_Progremmer.md)
+1. [The Five Why's](401-notes/The_5_Whys.md)
 
 
 ### 301 Notes
