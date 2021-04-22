@@ -37,6 +37,7 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [Think Like A Programmer](401-notes/Think_Like_A_Progremmer.md)
 1. [The Five Why's](401-notes/The_5_Whys.md)
 1. [Node Ecosystem](401-notes/Node_Ecosystem.md)
+1. [Espress Rest API](401-notes/Express-REST-API.md)
 
 
 ### 301 Notes
