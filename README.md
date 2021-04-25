@@ -39,6 +39,7 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [Node Ecosystem](401-notes/Node_Ecosystem.md)
 1. [Espress Rest API](401-notes/Express-REST-API.md)
 1. [Data Modeling](401-notes/data-modeling.md)
+1. [Authentication](401-notes/authentication.md)
 
 
 ### 301 Notes
