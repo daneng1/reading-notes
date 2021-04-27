@@ -40,6 +40,7 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [Espress Rest API](401-notes/Express-REST-API.md)
 1. [Data Modeling](401-notes/data-modeling.md)
 1. [Authentication](401-notes/authentication.md)
+1. [Bearer Authentication](401-notes/bearer_auth.md)
 
 
 ### 301 Notes
