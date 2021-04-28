@@ -41,6 +41,7 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [Data Modeling](401-notes/data-modeling.md)
 1. [Authentication](401-notes/authentication.md)
 1. [Bearer Authentication](401-notes/bearer_auth.md)
+1. [Access Control](401-notes/access-control.md)
 
 
 ### 301 Notes
