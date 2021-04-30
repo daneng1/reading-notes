@@ -42,6 +42,7 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [Authentication](401-notes/authentication.md)
 1. [Bearer Authentication](401-notes/bearer_auth.md)
 1. [Access Control](401-notes/access-control.md)
+1. [Stacks and Queues](401-notes/stacks-queues.md)
 
 
 ### 301 Notes
