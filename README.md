@@ -46,6 +46,7 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [Trees](401-notes/trees.md)
 1. [Socket.io](401-notes/socket.io.md)
 1. [Message Queues](401-notes/message-queues.md)
+1. [AWS Cloud Services](401-notes/aws-cloud-services.md)
 
 ### 301 Notes
 
