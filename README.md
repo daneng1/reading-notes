@@ -49,6 +49,7 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [AWS Cloud Services](401-notes/aws-cloud-services.md)
 1. [AWS S3 and Lamdba](401-notes/aws-s3-lambda.md)
 1. [AWS DynamoDB, Lambda and Gateway](401-notes/aws-api-dynamo-lambda.md)
+1. [AWS Events](401-notes/aws-events.md)
 
 ### 301 Notes
 
