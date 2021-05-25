@@ -50,6 +50,8 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [AWS S3 and Lamdba](401-notes/aws-s3-lambda.md)
 1. [AWS DynamoDB, Lambda and Gateway](401-notes/aws-api-dynamo-lambda.md)
 1. [AWS Events](401-notes/aws-events.md)
+1. [Component Based UI](401-notes/ComponentBasedUI.md)
+1. [Props and State](401-notes/PropsAndState.md)
 
 ### 301 Notes
 
