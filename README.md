@@ -54,6 +54,7 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [Props and State](401-notes/PropsAndState.md)
 1. [React Routing](401-notes/react-routing.md)
 1. [React Hooks](401-notes/hooks.md)
+1. [Custom React Hooks](401-notes/custom-hooks.md)
 
 ### 301 Notes
 
