@@ -2,7 +2,7 @@
 
 ## Questions
 
-1. Do child components have direct access to props/state from the parent? 
+1. Do child components have direct access to props/state from the parent?
 
   > No, the child component can only acces props/state from the parent if the parent sends the child a function.
 
@@ -24,4 +24,3 @@
 - *composition* - React Composition is a development pattern based on React's original component model where we build components from other components using explicit defined props or the implicit children prop. In terms of refactoring, React composition is a pattern that can be used to break a complex component down to smaller components, and then composing those smaller components to structure and complete your application.
 
  [Back to Read Me](../README.md)
- 
