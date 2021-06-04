@@ -55,7 +55,8 @@ Please check out my [GitHub portfolio](https://github.com/daneng1)!
 1. [React Routing](401-notes/react-routing.md)
 1. [React Hooks](401-notes/hooks.md)
 1. [Custom React Hooks](401-notes/custom-hooks.md)
-1.[React Context API](401-notes/React-Context-API.md)
+1. [React Context API](401-notes/React-Context-API.md)
+1. [Graphs](401-notes/graphs.md)
 
 ### 301 Notes
 
